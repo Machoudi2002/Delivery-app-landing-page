@@ -1,0 +1,12 @@
+font link : @import url('https://fonts.googleapis.com/css2?family=Kavoon&family=Quattrocento:wght@400;700&family=Racing+Sans+One&display=swap');
+
+heading : font-family: 'Racing Sans One', cursive;
+
+sub-heading: font-family: 'Kavoon', cursive;
+
+para : font-family: 'Quattrocento', serif;
+
+
+colors : #F9A826 yellow
+
+	#271804 near black
